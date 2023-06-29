@@ -1,3 +1,2 @@
-data/*
-!data/meteoanalysis*
+data/wr201126/
 .ipynb_checkpoints
